@@ -4,9 +4,9 @@
 最近、自分の職務経歴書をChatGPTに分析させてみました。  
 すると、みごとに私の弱点をスバリと指摘されました。
 
-[私の職務経歴書] GitHubへのリンク
+[[私の職務経歴書](https://github.com/noyanagi/career-analysis-chatgpt/blob/main/career-history-original.md)]
 
-[ChatGPTとのやり取り全文] GitHubへのリンク
+[[ChatGPTとのやり取り全文](https://github.com/noyanagi/career-analysis-chatgpt/blob/main/chatgpt-review.md)]
 
 ## ChatGPTの評価
 ChatGPTは私のキャリアをこう評価しました。
