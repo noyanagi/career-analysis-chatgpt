@@ -19,7 +19,7 @@ Career Analysis by ChatGPT
 
 ### Qiita記事
 
-（Qiita記事URL）
+https://qiita.com/noyanagi/items/d7f653a9cc7da79ce9e3
 
 ---
 
@@ -40,4 +40,4 @@ This repository contains an experiment where I asked ChatGPT to analyze my engin
 
 ### Qiita Article
 
-(Qiita article URL)
+https://qiita.com/noyanagi/items/d7f653a9cc7da79ce9e3
